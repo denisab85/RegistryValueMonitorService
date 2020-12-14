@@ -1,0 +1,10 @@
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\obj\Debug\RegMonApp.csprojAssemblyReference.cache
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\obj\Debug\RegMonApp.csproj.CoreCompileInputs.cache
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\bin\Debug\RegMonApp.exe.config
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\bin\Debug\RegMonApp.exe
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\bin\Debug\RegMonApp.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\bin\Debug\LibRegMon.dll
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\bin\Debug\LibRegMon.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\obj\Debug\RegMonApp.csproj.CopyComplete
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\obj\Debug\RegMonApp.exe
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegMonApp\obj\Debug\RegMonApp.pdb

@@ -1,0 +1,178 @@
+﻿Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Creating EventLog source RegistryValueMonitor in log Application...
+Rolling back assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Restoring event log to previous state for source RegistryValueMonitor.
+Uninstalling assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Removing EventLog source RegistryValueMonitor.
+Service RegistryValueMonitor is being removed from the system...
+Service RegistryValueMonitor was successfully removed from the system.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Creating EventLog source RegistryValueMonitor in log Application...
+Rolling back assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Restoring event log to previous state for source RegistryValueMonitor.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Creating EventLog source RegistryValueMonitor in log Application...
+Rolling back assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Restoring event log to previous state for source RegistryValueMonitor.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Uninstalling assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Removing EventLog source RegistryValueMonitor.
+Service RegistryValueMonitor is being removed from the system...
+Service RegistryValueMonitor was successfully removed from the system.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Uninstalling assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Removing EventLog source RegistryValueMonitor.
+Service RegistryValueMonitor is being removed from the system...
+Service RegistryValueMonitor was successfully removed from the system.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Uninstalling assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Removing EventLog source RegistryValueMonitor.
+Service RegistryValueMonitor is being removed from the system...
+Service RegistryValueMonitor was successfully removed from the system.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Uninstalling assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Removing EventLog source RegistryValueMonitor.
+Service RegistryValueMonitor is being removed from the system...
+Service RegistryValueMonitor was successfully removed from the system.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Uninstalling assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Removing EventLog source RegistryValueMonitor.
+Service RegistryValueMonitor is being removed from the system...
+Service RegistryValueMonitor was successfully removed from the system.
+Installing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+Installing service RegistryValueMonitor...
+Service RegistryValueMonitor has been successfully installed.
+Creating EventLog source RegistryValueMonitor in log Application...
+Committing assembly 'C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.InstallLog
+   assemblypath = C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe

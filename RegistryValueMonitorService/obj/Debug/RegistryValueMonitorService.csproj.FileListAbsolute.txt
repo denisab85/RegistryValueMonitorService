@@ -1,0 +1,13 @@
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe.config
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.exe
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\RegistryValueMonitorService.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.csprojAssemblyReference.cache
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.RegistryValueMonitorService.resources
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.csproj.GenerateResource.cache
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.csproj.CoreCompileInputs.cache
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.exe
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\LibRegMon.dll
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\bin\Debug\LibRegMon.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.ProjectInstaller.resources
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\RegistryValueMonitorService\obj\Debug\RegistryValueMonitorService.csproj.CopyComplete

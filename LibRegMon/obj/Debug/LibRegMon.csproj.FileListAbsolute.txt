@@ -1,0 +1,6 @@
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\LibRegMon\bin\Debug\LibRegMon.dll
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\LibRegMon\bin\Debug\LibRegMon.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\LibRegMon\obj\Debug\LibRegMon.csproj.CoreCompileInputs.cache
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\LibRegMon\obj\Debug\LibRegMon.dll
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\LibRegMon\obj\Debug\LibRegMon.pdb
+C:\Users\abakud1\source\repos\ChromeSettingsMonitor\LibRegMon\obj\Debug\LibRegMon.csprojAssemblyReference.cache
